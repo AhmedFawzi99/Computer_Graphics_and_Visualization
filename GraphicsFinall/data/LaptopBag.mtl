@@ -1,0 +1,33 @@
+newmtl Bag
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd laptopBag_Bag_BaseColor.png
+map_Ks laptopBag_Bag_R.S.A.png
+map_bump laptopBag_Bag_Normal.png
+newmtl Bag_LaptopBag_None_alb.png
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd laptopBag_Bag_LaptopBag_None_alb.png_BaseColor.png
+map_Ks laptopBag_Bag_LaptopBag_None_alb.png_R.S.A.png
+map_bump laptopBag_Bag_LaptopBag_None_alb.png_Normal.png
+newmtl Bag_NONE
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd laptopBag_Bag_NONE_BaseColor.png
+map_Ks laptopBag_Bag_NONE_R.S.A.png
+map_bump laptopBag_Bag_NONE_Normal.png
